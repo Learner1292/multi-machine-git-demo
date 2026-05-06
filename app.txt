@@ -1,2 +1,2 @@
-Welcome to Shopping App
+Welcome to Shopping App - EC2
 Cart Feature Added
