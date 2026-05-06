@@ -1,2 +1,2 @@
-Welcome to Shopping App
+Welcome to Shopping App - LOCAL
 Cart Feature Added
